@@ -1,3 +1,32 @@
 [Shinjoku](https://github.com/Shinjoku)'s original brainstorm
 
-\[paste it here to keep track for the future\]
+- Sincronia
+- cheio de cores vivas
+- amaciante
+- jota quest
+- grave
+- mecanica de som
+- dark mode
+- olhos
+- violao
+- animacao
+- coluna
+- ilha da pascoa
+- finos senhores
+- timing
+- perfume
+- batimento cardíaco
+- disparos nervosos
+- hormonios
+- areia
+- barco
+- clima frio
+- ventilador
+- pique undertale
+- emboscadas - cavando?
+- origami
+- pistões
+- konan
+- efeitos especiais diferentes pra poderes fortalecidos
+- avatar
+- sorvete de morango
