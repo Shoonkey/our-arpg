@@ -1,0 +1,31 @@
+[gd_scene load_steps=3 format=3 uid="uid://dchmscfn03dpb"]
+
+[ext_resource type="PackedScene" uid="uid://cvrmt4lm3axn6" path="res://Scenes/Player.tscn" id="1_obgrc"]
+[ext_resource type="PackedScene" uid="uid://dbopycfxo36x8" path="res://Scenes/Tree.tscn" id="2_04bxy"]
+
+[node name="Node2D" type="Node2D"]
+y_sort_enabled = true
+
+[node name="Player" parent="." instance=ExtResource("1_obgrc")]
+position = Vector2(318, 179)
+
+[node name="Trees" type="Node2D" parent="."]
+y_sort_enabled = true
+
+[node name="Tree" parent="Trees" instance=ExtResource("2_04bxy")]
+position = Vector2(126, 68)
+
+[node name="Tree2" parent="Trees" instance=ExtResource("2_04bxy")]
+position = Vector2(152, 152)
+_treeState = 1
+
+[node name="Tree3" parent="Trees" instance=ExtResource("2_04bxy")]
+position = Vector2(462, 193)
+
+[node name="Tree4" parent="Trees" instance=ExtResource("2_04bxy")]
+position = Vector2(226, 285)
+_treeState = 2
+
+[node name="Tree5" parent="Trees" instance=ExtResource("2_04bxy")]
+position = Vector2(434, 55)
+_treeState = 2
